@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p style={{ color: '#000' }}>
-          Hallo Welt
+          Ich mag docker
         </p>
         <a
           className="App-link"
